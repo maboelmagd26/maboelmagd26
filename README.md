@@ -46,12 +46,12 @@
 #### 🌟 Quiz App
 
 - Built a dynamic quiz application using React, featuring:
+
+  - A progress bar for tracking question completion.
  
- - A progress bar for tracking question completion.
+  - Hover effects and color indications for correct/incorrect answers.
  
- - Hover effects and color indications for correct/incorrect answers.
- 
- - Smooth transitions between questions.
+  - Smooth transitions between questions.
 
 #### 🌟 Admin Dashboard
 
