@@ -5,6 +5,8 @@
 
 ---
 
+<div align="center">
+ 
 ### 📊 Daily.dev Card  
 
 <a href="https://app.daily.dev/mahmoudaboelmagd"><img src="https://api.daily.dev/devcards/v2/GeKfYf2dNCg0J9zL1KsNT.png?type=wide&r=d2q" width="652" alt="Mahmoud Abo El-Magd's Dev Card"/></a>
@@ -15,6 +17,8 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abo-elmagd-ba758316b/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/magdojack23)
+
+</div>
 
 ---
 
@@ -42,29 +46,29 @@
 
 #### 🌟 Quiz App
 
- Built a dynamic quiz application using React, featuring:
+- Built a dynamic quiz application using React, featuring:
  
-- A progress bar for tracking question completion.
-
-- Hover effects and color indications for correct/incorrect answers.
-
-- Smooth transitions between questions.
+ - A progress bar for tracking question completion.
+ 
+ - Hover effects and color indications for correct/incorrect answers.
+ 
+ - Smooth transitions between questions.
 
 #### 🌟 Admin Dashboard
 
-- Developed an interactive admin dashboard using React and Material-UI, which includes:
+- Developed an interactive admin dashboard using **React** and **Material-UI**, which includes:
 
-- Pie charts, bar charts, sliders, and legends.
+  - Pie charts, bar charts, sliders, and legends.
 
-- A customizable layout for data visualization.
+  - A customizable layout for data visualization.
 
 #### 🌟 Portfolio Website
 
 - Created a personal portfolio to showcase my skills and projects, featuring:
 
-- A responsive design optimized for various devices.
+  - A responsive design optimized for various devices.
 
-- Smooth navigation and visually appealing animations.
+  - Smooth navigation and visually appealing animations.
 
 ---
 ## 🚀 Future Goals    
