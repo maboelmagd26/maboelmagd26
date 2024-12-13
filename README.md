@@ -8,7 +8,7 @@
 
 ### 📊 Daily.dev Card  
 
-<a href="https://app.daily.dev/mahmoudaboelmagd"><img src="https://api.daily.dev/devcards/v2/GeKfYf2dNCg0J9zL1KsNT.png?type=wide&r=d2q" width="652" alt="Mahmoud Abo El-Magd's Dev Card"/></a>
+<a href="https://app.daily.dev/mahmoudaboelmagd"><img src="https://api.daily.dev/devcards/v2/GeKfYf2dNCg0J9zL1KsNT.png?type=default&r=rsg" width="356" alt="Mahmoud Abo El-Magd's Dev Card"/></a>
 
 ---
 
@@ -68,6 +68,16 @@
   - A responsive design optimized for various devices.
 
   - Smooth navigation and visually appealing animations.
+
+#### 🌟 To-do App
+
+-created a To-Do list app using (HTML, CSS, JS) in which I can : 
+
+  - Add, delete, or edit a task.
+   
+  - Prevent default form action.
+    
+  - Count completed and uncompleted task with the suitable design for each.
 
 ---
 ## 🚀 Future Goals    
