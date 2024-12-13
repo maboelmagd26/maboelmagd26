@@ -71,7 +71,7 @@
 
 #### 🌟 To-do App
 
--created a To-Do list app using (HTML, CSS, JS) in which I can : 
+- Created a To-Do list app using (HTML, CSS, JS) in which I can : 
 
   - Add, delete, or edit a task.
    
