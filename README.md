@@ -2,7 +2,7 @@
 
  ## 🚀 About Me
  
-### Hi! I'm *Mahmoud Aboelmagd* a **Junior Frontend Developer** located in ***Alexandria, egypt*** with experience building responsive and interactive web applications. I currently work at ***infralabs-ltd*** since May 2024 from the comfort of home. I am really interested in keeping in touch with reading about latest technologies on a **daily basis**. I am highly motivated to contribute to any good opportunity to learn new thing or enhance my coding/ frontend experience.
+### I'm *Mahmoud Aboelmagd* a **Junior Frontend Developer** located in ***Alexandria, egypt*** with experience building responsive and interactive web applications. I currently work at ***infralabs-ltd*** since May 2024 from the comfort of home. I am really interested in keeping in touch with reading about latest technologies on a **daily basis**. I am highly motivated to contribute to any good opportunity to learn new thing or enhance my coding/ frontend experience.
 
 ---
 
