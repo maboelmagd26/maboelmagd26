@@ -1,3 +1,4 @@
+<div align="center">
 
  ## 🚀 About Me
  
@@ -5,8 +6,6 @@
 
 ---
 
-<div align="center">
- 
 ### 📊 Daily.dev Card  
 
 <a href="https://app.daily.dev/mahmoudaboelmagd"><img src="https://api.daily.dev/devcards/v2/GeKfYf2dNCg0J9zL1KsNT.png?type=wide&r=d2q" width="652" alt="Mahmoud Abo El-Magd's Dev Card"/></a>
@@ -17,8 +16,6 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abo-elmagd-ba758316b/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/magdojack23)
-
-</div>
 
 ---
 
@@ -96,3 +93,4 @@
 
 - I love connecting with others and sharing unique, lighthearted moments.
 
+</div>
