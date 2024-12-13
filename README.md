@@ -1,10 +1,10 @@
-<div align="center">
-
  ## 🚀 About Me
  
 ### Hi! I'm *Mahmoud Aboelmagd* a **Junior Frontend Developer** located in ***Alexandria, egypt*** with experience building responsive and interactive web applications. I currently work at ***infralabs-ltd*** since May 2024 from the comfort of home. I am really interested in keeping in touch with reading about latest technologies on a **daily basis**. I am highly motivated to contribute to any good opportunity to learn new thing or enhance my coding/ frontend experience.
 
 ---
+
+<div align="center">
 
 ### 📊 Daily.dev Card  
 
@@ -17,6 +17,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abo-elmagd-ba758316b/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/magdojack23)
 
+</div>
 ---
 
 ### 🛠️ Tech Stack  
@@ -93,4 +94,3 @@
 
 - I love connecting with others and sharing unique, lighthearted moments.
 
-</div>
