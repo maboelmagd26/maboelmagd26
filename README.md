@@ -4,7 +4,7 @@
 
  ## 🚀 About Me
  
-### I'm *Mahmoud Aboelmagd* a **Junior Frontend Developer** located in ***Alexandria, egypt*** with experience building responsive and interactive web applications. I currently work at ***infralabs-ltd*** since May 2024 from the comfort of home. I am really interested in keeping in touch with reading about latest technologies on a **daily basis**. I am highly motivated to contribute to any good opportunity to learn new thing or enhance my coding/ frontend experience.
+### I am a Junior React Developer with nearly 1 year of professional experience contributing to 7+ large projects and 85+ pull requests at Infraalabs Ltd. I built responsive, scalable applications using React and its ecosystem, delivering authentication (MSAL & Firebase) and map-based features with OpenLayers. By optimizing React performance with memoization, bundling, and code splitting, I improved application responsiveness. Known for adapting quickly to documentation and new technologies, I apply best practices in API integration, state management, and system design to deliver maintainable code.
 
 ---
 
