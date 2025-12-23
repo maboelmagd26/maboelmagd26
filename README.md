@@ -1,9 +1,16 @@
 # 👋 Hi, I'm Mahmoud Aboelmagd (Better Call Magdo)
 
 ### Frontend React Developer | Maritime Applications Specialist
-
 ---
 
+## 🏆 Daily.dev Card
+<div align="center">
+  <a href="https://app.daily.dev/mahmoudaboelmagd">
+  <img src="https://api.daily.dev/devcards/v2/GeKfYf2dNCg0J9zL1KsNT.png?type=default&r=rsg" width="400" alt="Mahmoud Abo El-Magd's Dev Card"/>
+  </a>
+</div>
+
+---
 ## 🚀 About Me
 
 Frontend React Developer with **2+ years of experience** specializing in building high-performance, accessible web applications for the maritime industry. I focus on creating intuitive user experiences through **reusable component architecture**, **performance optimization**, and **complex feature integration**.
@@ -15,6 +22,18 @@ Frontend React Developer with **2+ years of experience** specializing in buildin
 - 🔄 **State Management:** Proficient with Zustand, React Query
 - 🐛 **Debugging Expert:** Skilled with React DevTools, React Hook Form DevTools, and React Query DevTools
 - 🚀 **Fast Learner:** Continuously expanding skills in DSA, TypeScript, and AI integration
+
+---
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/magdo24)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail)](mailto:aboelmagd644@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/maboelmagd26)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome)](https://johndoe.com)
+
+</div>
 
 ---
 
@@ -80,21 +99,11 @@ Frontend React Developer with **2+ years of experience** specializing in buildin
   
 ![Profile Views](https://komarev.com/ghpvc/?username=maboelmagd26&color=blue&label=PROFILE+VIEWS&style=for-the-badge)
 
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maboelmagd26&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maboelmagd26&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=maboelmagd26&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 🏆 Daily.dev Card
-
-<a href="https://app.daily.dev/mahmoudaboelmagd">
-  <img src="https://api.daily.dev/devcards/v2/GeKfYf2dNCg0J9zL1KsNT.png?type=default&r=rsg" width="400" alt="Mahmoud Abo El-Magd's Dev Card"/>
-</a>
 
 ---
 
@@ -133,29 +142,10 @@ Frontend React Developer with **2+ years of experience** specializing in buildin
 
 ---
 
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/magdo24)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:aboelmagd644@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/maboelmagd26)
-
-</div>
-
----
-
 ## 🎨 Beyond Code
 
-- 🎬 **Movie Buff:** BoJack Horseman enthusiast (dark humor masterpieces)
+- 🎬 **Movies:** BoJack Horseman enthusiast (dark humor masterpieces)
 - 💬 **Conversation Seeker:** Always up for tech talks.
 - 🐛 **Debugging Enthusiast:** Enjoy solving most common and even complex frontend issues. 
 - 🎯 **Continuous Learner:** Embracing challenges with curiosity and very extensive readers to deepen my knowledge.
 
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=maboelmagd26&color=blue&style=for-the-badge)
-
-</div>
