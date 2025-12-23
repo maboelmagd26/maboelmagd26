@@ -1,111 +1,161 @@
-# Hi, I'm Mahmoud better call me Magdo 👋
+# 👋 Hi, I'm Mahmoud Aboelmagd (Better Call Magdo)
+
+### Frontend React Developer | Maritime Applications Specialist
 
 ---
 
- ## 🚀 About Me
- 
-### I am a Junior React Developer with nearly 1 year of professional experience contributing to 7+ large projects and 85+ pull requests at Infraalabs Ltd. I built responsive, scalable applications using React and its ecosystem, delivering authentication (MSAL & Firebase) and map-based features with OpenLayers. By optimizing React performance with memoization, bundling, and code splitting, I improved application responsiveness. Known for adapting quickly to documentation and new technologies, I apply best practices in API integration, state management, and system design to deliver maintainable code.
+## 🚀 About Me
+
+Frontend React Developer with **2+ years of experience** specializing in building high-performance, accessible web applications for the maritime industry. I focus on creating intuitive user experiences through **reusable component architecture**, **performance optimization**, and **complex feature integration**.
+
+**What I bring to the table:**
+- 🎯 **Performance & Accessibility:** Building a11y-compliant, optimized web applications
+- 🧩 **Component Design:** Creating reusable UI systems with React & MUI
+- 📊 **Data Visualization:** Integrating maps (OpenLayers) and charts (Chart.js)
+- 🔄 **State Management:** Proficient with Zustand, React Query
+- 🐛 **Debugging Expert:** Skilled with React DevTools, React Hook Form DevTools, and React Query DevTools
+- 🚀 **Fast Learner:** Continuously expanding skills in DSA, TypeScript, and AI integration
 
 ---
+
+## 🛠️ Tech Stack
+
+### **Frontend Core**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Libraries & Tools**
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
+![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white)
+![TipTap](https://img.shields.io/badge/TipTap-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### **Development & Testing Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![React DevTools](https://img.shields.io/badge/React_DevTools-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**Debugging Skills:**
+- 🔍 **React DevTools:** Component inspection, props/state debugging, performance profiling
+- 📝 **React Hook Form DevTools:** Form state visualization, validation debugging
+- ⚡ **React Query DevTools:** Cache inspection, query state monitoring
+- 🐛 **Browser DevTools:** Network analysis, performance monitoring, console debugging
+
+---
+
+## 📈 Featured Projects
+
+### **Maritime Operations Dashboard** *(Professional Work)*
+- **Role:** Frontend Developer at Infralabs-LTD
+- **Tech:** React, MUI, React Hook Form, OpenLayers, Chart.js, Zustand, React Query
+- **Highlights:**
+  - Built 15+ reusable UI components with React Hook Form integration, improving team velocity by 20%
+  - Integrated real-time data visualization with interactive maps
+  - Implemented custom hooks reducing technical debt by 70%
+  - Enhanced security with protected routes & Microsoft MASL auth
+  - **Testing:** Comprehensive unit tests with React Testing Library & Vitest
+
+### **Rich-Text Editor Integration**
+- **Tech:** React, TipTap, React Hook Form, Custom Hooks
+- **Features:** Collaborative editing, markdown support, real-time preview with form validation
+- **Impact:** Streamlined content creation workflow for maritime documentation
+
+*(Note: Adding personal/open-source projects here when available)*
+
+---
+
+## 📊 GitHub Stats & Profile Views
 
 <div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=maboelmagd26&color=blue&label=PROFILE+VIEWS&style=for-the-badge)
 
-### 📊 Daily.dev Card  
+![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maboelmagd26&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-<a href="https://app.daily.dev/mahmoudaboelmagd"><img src="https://api.daily.dev/devcards/v2/GeKfYf2dNCg0J9zL1KsNT.png?type=default&r=rsg" width="356" alt="Mahmoud Abo El-Magd's Dev Card"/></a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maboelmagd26&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
----
-
-### 🌐 Connect With Me  
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abo-elmagd-ba758316b/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/magdojack23)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=maboelmagd26&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack  
+## 🏆 Daily.dev Card
 
-#### 🌐 **Core Web Technologies**  
-- **HTML**: Semantic markup, accessibility practices, and SEO-friendly structures.  
-- **CSS**: Flexbox, Grid, transitions/animations, and responsive design.  
-- **JavaScript (ES6)**: DOM manipulation, event handling, and ES6+ features like `arrow functions`, `promises`, `async/await`, `spread/Rest operators`, `default parameters`, `destructuring` and more.
--  **Figma**: translating web designs. 
+<a href="https://app.daily.dev/mahmoudaboelmagd">
+  <img src="https://api.daily.dev/devcards/v2/GeKfYf2dNCg0J9zL1KsNT.png?type=default&r=rsg" width="400" alt="Mahmoud Abo El-Magd's Dev Card"/>
+</a>
 
 ---
 
-### ⚡ **Frameworks and Libraries**  
-- **React**: Functional components, hooks (`useState`, `useEffect`), and React Router.  
-- **Material-UI (MUI)**: Theming, reusable UI components, and layout grids.  
-- **React Icons**: Easy-to-integrate, scalable vector icons.
-- **React forms, formik**
-- **openLayers map rendering**
-- ***more to go through in the future***
-  
---- 
+## 🧪 Testing & Quality Focus
 
-### 💼 Projects
+### **Testing Tools Expertise**
+- **React Testing Library:** Component testing, user interaction simulation
+- **Vitest:** Fast unit testing with React component support
+- **Testing Library**.
 
-#### 🌟 Quiz App
-
-- Built a dynamic quiz application using React, featuring:
-
-  - A progress bar for tracking question completion.
- 
-  - Hover effects and color indications for correct/incorrect answers.
- 
-  - Smooth transitions between questions.
-
-#### 🌟 Admin Dashboard
-
-- Developed an interactive admin dashboard using **React** and **Material-UI**, which includes:
-
-  - Pie charts, bar charts, sliders, and legends.
-
-  - A customizable layout for data visualization.
-
-#### 🌟 Portfolio Website
-
-- Created a personal portfolio to showcase my skills and projects, featuring:
-
-  - A responsive design optimized for various devices.
-
-  - Smooth navigation and visually appealing animations.
-
-#### 🌟 To-do App
-
-- Created a To-Do list app using (HTML, CSS, JS) in which I can : 
-
-  - Add, delete, or edit a task.
-   
-  - Prevent default form action.
-    
-  - Count completed and uncompleted task with the suitable design for each.
-
----
-## 🚀 Future Goals    
-- Learning **Web Animations API** for complex, interactive animations.  
-- Exploring **AI-driven web applications** to integrate intelligent solutions.
-- Build more complex UI and develope advanced frontend React Projects (AI powered, API based and E-commerce).
-- Build a threejs portfolio to include my projects I have done.
-
---- 
-
-### 📖 Learning Plans  
-- **Advanced React Patterns**: Context and reducers, custom hooks, performance optimization and React query.
-- **TypeScript**: Adding strong typing to JavaScript for better scalability.  
-- **Tailwind CSS**: A utility-first CSS framework for fast UI development.  
+### **Quality Practices**
+- ✅ Comprehensive test coverage for critical components
+- ✅ Integration testing for complex user flows
+- ✅ End-to-end testing fundamentals
+- ✅ Accessibility (a11y) testing
+- ✅ Performance testing with React Profiler
 
 ---
 
-##### 🎭 Interests
+## 🌱 Currently Learning
 
-- I'm a big fan of movies and TV series. my Top series being BoJack Horseman a masterpiece of dark humor, was a chill on my challenging times.
+- **Advanced React Patterns:** Performance optimization, advanced hooks
+- **TypeScript Mastery:** Type safety at scale
+- **AI Integration:** Exploring AI-powered UI components
+- **System Design:** Frontend architecture & scalability
+- **Advanced Testing:** Cypress, Playwright for E2E testing
 
-- I enjoy listening to music Rock or hip hop.
+---
 
-- I'm always up for exploring fun activities that offer a good laugh or keep me annpying and conversational .
+## 🎯 Future Goals
 
-- I love connecting with others and sharing unique, lighthearted moments.
+1. **AI-Powered Web Apps:** Build intelligent frontend applications
+2. **Open Source:** Contribute to React ecosystem libraries
+3. **Mentorship:** Share knowledge with junior developers with articles and videos.
+4. **Technical Leadership:** Lead frontend architecture decisions
 
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/magdo24)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:aboelmagd644@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/maboelmagd26)
+
+</div>
+
+---
+
+## 🎨 Beyond Code
+
+- 🎬 **Movie Buff:** BoJack Horseman enthusiast (dark humor masterpieces)
+- 💬 **Conversation Seeker:** Always up for tech talks.
+- 🐛 **Debugging Enthusiast:** Enjoy solving most common and even complex frontend issues. 
+- 🎯 **Continuous Learner:** Embracing challenges with curiosity and very extensive readers to deepen my knowledge.
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=maboelmagd26&color=blue&style=for-the-badge)
+
+</div>
