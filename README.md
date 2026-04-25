@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Mahmoud Aboelmagd (Better Call Magdo)
 
-### Frontend React Developer | Maritime Applications Specialist
----
+### Frontend Engineer — React, TypeScript, maritime data visualization---
 
 ## 🏆 Daily.dev Card
 <div align="center">
@@ -13,7 +12,7 @@
 ---
 ## 🚀 About Me
 
-Frontend React Developer with **2+ years of experience** specializing in building high-performance, accessible web applications for the maritime industry. I focus on creating intuitive user experiences through **reusable component architecture**, **performance optimization**, and **complex feature integration**.
+Frontend Engineer — React, TypeScript, maritime data visualization with **2+ years of experience**. I focus on creating intuitive user experiences through **reusable component architecture**, **performance optimization**, and **complex feature integration**. My stack is React, React Hook Form, React Router, Tanstack Query, Shadcn UI, Radix UI, chartjs, openLayer and tailwind css. 
 
 **What I bring to the table:**
 - 🎯 **Performance & Accessibility:** Building a11y-compliant, optimized web applications
